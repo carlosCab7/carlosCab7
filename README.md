@@ -9,7 +9,6 @@ proyectos y mis intereses.
 ## Información personal
 * Nombre: Carlos Cabanilla
 * Ocupación: Estudiante
-* Lugar de residencia: Guayaquil
 * Sitio web: https://carloscab7.github.io/carlosCab7/
 ## Proyectos
 * [Lista de tus proyectos]
